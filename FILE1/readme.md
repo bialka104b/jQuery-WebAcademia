@@ -1,17 +1,17 @@
 # TEORIA
 ## 1. Co to jest jQuery i do czego służy</b>
 
-    jQuery jest biblioteką dla języka JavaScript, której pierwsze wydanie pojawiło się 26 sierpnia 2006 roku. Kosztem niewielkiego spadku wydajności(praktycznie niezauważalnego) ułatwia korzystanie i tworzenie efektów animacji, dodawanie dynamicznych zmian strony, wczytywanie elementów strony bez potrzeby przeładowania(AJAX) itd.
-    Od 18 kwietnia 2013(wersja 2.0) porzucono obsługę przestarzałych przeglądarek IE 6-8.
-    Najnowsza stabilna wersja jQuery oznaczona jest numerem 3.5.1(https://jquery.com/).
-    jQuery umożliwia korzystanie z takich funkcjonalności jak:
-    ●	selektorów
-    ●	atrybutów
-    ●	modyfikowaniem drzewa DOM
-    ●	zmieniania stylów elementów
-    ●	obsługa zdarzeń
-    ●	efektów
-    ●	AJAX
+jQuery jest biblioteką dla języka JavaScript, której pierwsze wydanie pojawiło się 26 sierpnia 2006 roku. Kosztem niewielkiego spadku wydajności(praktycznie niezauważalnego) ułatwia korzystanie i tworzenie efektów animacji, dodawanie dynamicznych zmian strony, wczytywanie elementów strony bez potrzeby przeładowania(AJAX) itd.
+Od 18 kwietnia 2013(wersja 2.0) porzucono obsługę przestarzałych przeglądarek IE 6-8.
+Najnowsza stabilna wersja jQuery oznaczona jest numerem 3.5.1(https://jquery.com/).
+jQuery umożliwia korzystanie z takich funkcjonalności jak:
+- selektorów
+- atrybutów
+- modyfikowaniem drzewa DOM
+- zmieniania stylów elementów
+- obsługa zdarzeń
+- efektów
+- AJAX
 
 
 # Zadanie 1 (5 minut)

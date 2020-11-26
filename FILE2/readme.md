@@ -14,7 +14,7 @@
 ________________________________________________________________________________________________________
 # TEORIA
 ## Odczyt  i modyfikacja treści elementów
-    Dostęp do treści elementów HTML można uzyskać po zastosowaniu metody ```text()``` oraz ```html()```. Pierwsza z nich operuje tylko tekstem, natomiast druga kodem HTML. Mogą one być wywoływane bezparametrowo lub z jednym parametrem. Wywołanie bezparametrowo zwraca obecną zawartość elementu, zaś wywołanie z parametrem ustawia nową zawartość.
+Dostęp do treści elementów HTML można uzyskać po zastosowaniu metody ```text()``` oraz ```html()```. Pierwsza z nich operuje tylko tekstem, natomiast druga kodem HTML. Mogą one być wywoływane bezparametrowo lub z jednym parametrem. Wywołanie bezparametrowo zwraca obecną zawartość elementu, zaś wywołanie z parametrem ustawia nową zawartość.
 
 - ```$('selektor').text()``` - zwraca tekst danego elementu.
 - ```$('selektor').text('Lorem ipsum...')``` - dodaje tekst do wskazanego elementu.
